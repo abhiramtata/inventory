@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Notebook",
+      "price": 50,
+      "stock": 23,
+      "category": "Stationery"
+    },
+    {
+      "id": "2",
+      "name": "Pen",
+      "price": 10,
+      "stock": 100,
+      "category": "Stationery"
+    },
+    {
+      "id": "3",
+      "name": "Water Bottle",
+      "price": 199,
+      "stock": 15,
+      "category": "Accessories"
+    },
+    {
+      "id": "2854",
+      "name": "watch ",
+      "price": 1000,
+      "stock": 2,
+      "category": "electronics"
+    }
+  ]
+}
